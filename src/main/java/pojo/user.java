@@ -5,4 +5,5 @@ public class user {
     private String name;//名字
     private String age;//年龄
     private String price;//价格
+    private String p;
 }
