@@ -1,7 +1,7 @@
 package pojo;
 
 public class user {
-    private int id;
-    private String name;
-    private String age;
+    private int id;//id
+    private String name;//名字
+    private String age;//年龄
 }
